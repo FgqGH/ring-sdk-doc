@@ -42,7 +42,7 @@ export default defineConfig({
       provider: 'local',
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/QRing/ring-ble-sdk' },
+      { icon: 'github', link: 'https://github.com/FgqGH/ring-sdk' },
     ],
     footer: {
       message: '基于青橙手环蓝牙协议规格书 V1.6.58',

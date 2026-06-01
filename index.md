@@ -76,7 +76,7 @@ await ring.disconnect()
 
 | 分支 | 说明 | 地址 |
 |------|------|------|
-| `master` | 主分支（最新） | [GitHub](https://github.com/QRing/ring-ble-sdk) |
+| `master` | 主分支（最新） | [GitHub](https://github.com/FgqGH/ring-sdk) |
 
 ## 相关项目
 
