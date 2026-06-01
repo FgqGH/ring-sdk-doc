@@ -80,5 +80,5 @@ await ring.disconnect()
 
 ## 相关项目
 
-- **ring-sdk** — SDK 核心源码（`D:\GitYHB\QRing\SDK\ring-sdk`）
-- **ring-sdk-guide** — 微信小程序 Demo（`D:\GitYHB\QRing\SDK-guide\ring-sdk-guide`）
+- **ring-sdk** — SDK 核心源码 [GitHub](https://github.com/FgqGH/ring-sdk)
+- **ring-sdk-guide** — 微信小程序 Demo [GitHub](https://github.com/FgqGH/ring-sdk-guide)
