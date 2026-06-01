@@ -1,0 +1,14 @@
+{
+  "name": "ring-sdk-docs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RingSDK 智能戒指蓝牙通信 SDK 技术文档",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
