@@ -14,7 +14,7 @@ hero:
       link: /api/ring-sdk
     - theme: alt
       text: 在线 Demo
-      link: https://demo.ruoyi.vip
+      link: https://github.com/FgqGH/ring-sdk-guide
 
 features:
   - icon: 🔗
